@@ -4,6 +4,13 @@
 
 ---
 
+## 🎬 Demo & tài liệu dự án
+
+- **Link demo ứng dụng:** [Xem demo Memory Detox](https://drive.google.com/file/d/1-T-BAzm8jFdbW-m6zbH9qkyPbYep16Tp/view?usp=drive_link)
+- **Tài liệu mô tả ứng dụng:** [Xem tài liệu Memory Detox](https://drive.google.com/file/d/1X5bDvrjyR2GE-afJOOGdGOcpBBmOUasN/view?usp=drive_link)
+
+---
+
 ## Tính năng chính
 
 ### Xác thực & onboarding
