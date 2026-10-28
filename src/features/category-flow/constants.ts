@@ -1,0 +1,1 @@
+export const MEMORIZE_DURATION_SEC = 45
